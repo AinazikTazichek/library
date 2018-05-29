@@ -1,0 +1,12 @@
+﻿Think Python&Allen B.D.&0001536&English
+Intro to Web development&Michael Mendez&0007231&English
+Calculus a complete course&Robert Adams&0003645&English
+Concepts in Engineering&Mark Holtzapple&0008465&English
+Введение в манасоведение&Т.А. Бакчев&0003527&Русский
+Learning to Teach&Richard I. Arends&0004254&English
+JavaScript&Mitat Uysal&0008542&English
+Java How to Program&Dr. Harvey&000019&English
+Intro to HTML and JavaScript for Scientists and Engineers&David R. Brooks&000074&English
+Beginning HTML, XHTML, CSS, and JavaScript&Jon Duckett&000066&English
+Thinking in Java&Bruce Eckel&0012416&English
+Python und GUI- Toolkits&Michael Lauer&0009320&English
