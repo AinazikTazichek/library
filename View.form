@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="View">
+  <grid id="27dc6" binding="panel" layout-manager="GridLayoutManager" row-count="5" column-count="3" same-size-horizontally="false" same-size-vertically="true" hgap="300" vgap="2">
+    <margin top="5" left="5" bottom="5" right="5"/>
+    <constraints>
+      <xy x="20" y="14" width="400" height="700"/>
+    </constraints>
+    <properties>
+      <maximumSize width="400" height="600"/>
+      <minimumSize width="400" height="600"/>
+      <nextFocusableComponent value="root"/>
+      <preferredSize width="400" height="600"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <component id="87a59" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="0" column="1" row-span="1" col-span="2" vsize-policy="4" hsize-policy="4" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <alignmentY value="0.0"/>
+          <font size="24"/>
+          <iconTextGap value="2"/>
+          <text value="Library System"/>
+        </properties>
+      </component>
+      <component id="e4fef" class="javax.swing.JButton" binding="addABookButton" default-binding="true">
+        <constraints>
+          <grid row="3" column="1" row-span="1" col-span="1" vsize-policy="4" hsize-policy="4" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <minimum-size width="300" height="50"/>
+            <preferred-size width="300" height="50"/>
+            <maximum-size width="300" height="50"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font size="16"/>
+          <text value="Add a Book"/>
+        </properties>
+      </component>
+      <component id="4ff5d" class="javax.swing.JButton" binding="showAllBooksButton" default-binding="true">
+        <constraints>
+          <grid row="2" column="1" row-span="1" col-span="1" vsize-policy="4" hsize-policy="4" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <minimum-size width="300" height="50"/>
+            <preferred-size width="300" height="50"/>
+            <maximum-size width="300" height="50"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font size="16"/>
+          <text value="Show all books"/>
+        </properties>
+      </component>
+      <component id="d7967" class="javax.swing.JComboBox" binding="comboBox1" default-binding="true">
+        <constraints>
+          <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="4" hsize-policy="4" anchor="0" fill="0" indent="0" use-parent-layout="false">
+            <minimum-size width="300" height="50"/>
+            <preferred-size width="300" height="50"/>
+            <maximum-size width="300" height="50"/>
+          </grid>
+        </constraints>
+        <properties>
+          <model>
+            <item value=""/>
+            <item value="Novel"/>
+            <item value="Education"/>
+            <item value="Dictionary"/>
+          </model>
+        </properties>
+      </component>
+      <component id="c066c" class="javax.swing.JButton" binding="exitButton" default-binding="true">
+        <constraints>
+          <grid row="4" column="1" row-span="1" col-span="1" vsize-policy="4" hsize-policy="4" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <minimum-size width="300" height="50"/>
+            <preferred-size width="300" height="50"/>
+            <maximum-size width="300" height="50"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font size="16"/>
+          <text value="Exit"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>
